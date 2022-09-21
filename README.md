@@ -1,0 +1,3 @@
+# SignalrBase
+
+Basic SignalR implementation.
